@@ -13,23 +13,18 @@
 **Hardware:** I own a Flipper Zero and an ESP32-S3 which I'm using to learn about WiFi signals, Bluetooth, network traffic, sensors and electronics.
 
 **My plan:**
-- [ ] Learn quant.
-- [ ] Learn reverse engineering with ghidra.
-- [ ] Understand encryption and crypto.
-- [ ] Develop application software.
-- [ ] Understand memory addresses.
-- [ ] Learn C++.
-- [ ] Make a neural network from scratch.
-- [ ] Master networking.
-- [ ] Learn JavaScript.
-- [ ] Master tools like wireshark, nmap, metasploit.
-- [ ] Finish learning Python.
-- [ ] Learn SQL.
-- [x] Understand Linux fundamentals.
-- [x] Understand website security.
-- [ ] Finish Mr Robot lmao.
-
-I'm from the UK and I was born on the 23rd of June 2012
+- [ ] Learn quant
+- [ ] Understand cryptocurrency
+- [ ] Reverse engineer software
+- [ ] Understand memory addresses
+- [ ] Build a neural network
+- [ ] Master C++
+- [ ] Master networking
+- [ ] Learn computer vision
+- [ ] Use cybersecurity frameworks
+- [ ] Master Python
+- [x] Understand Linux
+- [x] Use website security
 
 Timeline of my progress (oldest -> newest): 
 
@@ -39,7 +34,9 @@ Timeline of my progress (oldest -> newest):
 | 13 | Made a profitable business | 2026 |
 |  | Bought a website | 2025 |
 
-Building this GitHub to document my progress.
+I'm from the UK and I was born on the 23rd of June 2012.
+
+I am building this GitHub to document my progress.
 
 <img src="https://raw.githubusercontent.com/Charlie-Edwards/python/refs/heads/main/oop/demo.png">
 
