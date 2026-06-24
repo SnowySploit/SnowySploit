@@ -13,21 +13,21 @@
 **Hardware:** I own a Flipper Zero and an ESP32-S3 which I'm using to learn about WiFi signals, Bluetooth, network traffic, sensors and electronics.
 
 **My plan:**
-- [  ] Learn quant.
-- [  ] Learn reverse engineering with ghidra.
-- [  ] Understand encryption and crypto.
-- [  ] Develop application software.
-- [  ] Understand memory addresses.
-- [  ] Learn C++.
-- [  ] Make a neural network from scratch.
-- [  ] Master networking.
-- [  ] Learn JavaScript.
-- [  ] Master tools like wireshark, nmap, metasploit.
-- [  ] Finish learning Python.
-- [  ] Learn SQL.
-- [ x ] Understand Linux fundamentals.
-- [ x ] Understand website security.
-- [  ] Finish Mr Robot lmao.
+- [ ] Learn quant.
+- [ ] Learn reverse engineering with ghidra.
+- [ ] Understand encryption and crypto.
+- [ ] Develop application software.
+- [ ] Understand memory addresses.
+- [ ] Learn C++.
+- [ ] Make a neural network from scratch.
+- [ ] Master networking.
+- [ ] Learn JavaScript.
+- [ ] Master tools like wireshark, nmap, metasploit.
+- [ ] Finish learning Python.
+- [ ] Learn SQL.
+- [x] Understand Linux fundamentals.
+- [x] Understand website security.
+- [ ] Finish Mr Robot lmao.
 
 I'm from the UK and I was born on the 23rd of June 2012
 
