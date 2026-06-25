@@ -14,6 +14,8 @@
 
 <img src="https://raw.githubusercontent.com/Charlie-Edwards/python/refs/heads/main/oop/demo.png">
 
+---
+
 **My plan:**
 - [ ] Learn quant
 - [ ] Understand cryptocurrency
@@ -28,6 +30,8 @@
 - [x] Understand Linux
 - [x] Use website security
 
+---
+
 Timeline of my progress (oldest -> newest): 
 
 | Age | Progress | Years |
@@ -35,6 +39,8 @@ Timeline of my progress (oldest -> newest):
 | 14 | . . . | 2026 |
 | 13 | Made a profitable business | 2026 |
 |  | Bought a website | 2025 |
+
+---
 
 I'm from the UK and I was born on the 23rd of June 2012.
 
