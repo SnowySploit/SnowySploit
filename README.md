@@ -12,9 +12,9 @@
 
 ### Timeline:
 
-__2024-2025 (12)__:
+__2026-2027 (14)__:
 
-- Interested in __cybersecurity__, I started learning computer science fundamentals and basic concepts like offensive and defensive security against attacks through [TryHackMe](https://tryhackme.com/p/charlieEdwards) easy rooms and CTF walkthroughs.
+- Reconsidering if I really wanted to work in cybersecurity (AI ([?](https://www.isc2.org/Insights/2026/07/rethinking-ai-impact-on-cybersecurity-roles)), relevance and interest), I'm now aiming to work in computational medicine with __Bioinformatics__ which doesn't waste much of my previous effort in learning cybersecurity and can help me do what I like even in a new field.
 
 __2025-2026 (13)__:
 
@@ -22,9 +22,9 @@ __2025-2026 (13)__:
 - I also started daily driving arch linux on my laptop and bought a web domain for pentesting.
 - Self-teaching through tutorials and guides from people like NeuralNine [#](https://www.youtube.com/@NeuralNine) and NetworkChuck [#](https://www.youtube.com/@NetworkChuck) helped me stay relevant in the field despite my school not teaching this and kept me at my own pace and understanding.
 
-__2026-2027 (14)__:
+__2024-2025 (12)__:
 
-- Reconsidering if I really wanted to work in cybersecurity (AI ([?](https://www.isc2.org/Insights/2026/07/rethinking-ai-impact-on-cybersecurity-roles)), relevance and interest), I'm now aiming to work in computational medicine with __Bioinformatics__ which doesn't waste much of my previous effort in learning cybersecurity and can help me do what I like even in a new field.
+- Interested in __cybersecurity__, I started learning computer science fundamentals and basic concepts like offensive and defensive security against attacks through [TryHackMe](https://tryhackme.com/p/charlieEdwards) easy rooms and CTF walkthroughs.
 
 ---
 
