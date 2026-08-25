@@ -6,6 +6,8 @@
 
 \- A timeline of my progress ([~/#Timeline](https://github.com/Charlie-Edwards#Timeline))
 
+`#00ffff`
+
 ```py
 class CharlieEdwards:
 
