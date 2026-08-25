@@ -1,6 +1,28 @@
 \>_ Hi I'm **Charlie**, a self-taught 14 year old programmer getting into computational medicine with interests in bioinformatics
 
-[+] Computational Medicine
+```python
+class CharlieEdwards:
+
+    def __init__(self, name, age, occupation):
+        self.name = name
+        self.age = age
+        self.occupation = occupation
+
+
+class Accounts(CharlieEdwards):
+
+    def __init__(self, name, age, occupation, github):
+        super().__init__(name, age, occupation)
+        self.github = github
+
+
+charlie = Accounts(
+    name="Charlie Edwards",
+    age=0xE, # 14
+    occupation="Computational Medicine",
+    github="https://github.com/Charlie-Edwards"
+)
+```
 
 |My Stack [#](https://github.com/Charlie-Edwards#Stack)|Accounts|GitHub [#](https://github.com/Charlie-Edwards)|
 |:-------------:|:-------------:|:-------------:|
