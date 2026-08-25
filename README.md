@@ -2,9 +2,9 @@
 
 [+] Computational Medicine
 
-[#](https://github.com/Charlie-Edwards#Stack) My Stack ([Python](https://github.com/Charlie-Edwards/python), [C++](https://github.com/Charlie-Edwards/cpp))
+\- My Stack ([~/#Stack](https://github.com/Charlie-Edwards#Stack))
 
-[#](https://github.com/Charlie-Edwards#Timeline) A timeline of my progress
+\- A timeline of my progress ([~/#Timeline](https://github.com/Charlie-Edwards#Timeline))
 
 ```python
 class CharlieEdwards:
