@@ -6,7 +6,7 @@
 
 \- A timeline of my progress ([~/#Timeline](https://github.com/Charlie-Edwards#Timeline))
 
-```python
+```py
 class CharlieEdwards:
 
     def __init__(self, name, age, occupation):
@@ -20,8 +20,8 @@ class Accounts(CharlieEdwards):
     def __init__(self, name, age, occupation, github):
         super().__init__(name, age, occupation)
         self.github = github
-
-
+```
+```py
 Charlie = Accounts(
     name="Charlie Edwards",
     age=0xE, # 14
