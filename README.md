@@ -1,5 +1,11 @@
 \>_ Hi I'm **Charlie**, a self-taught 14 year old programmer getting into computational medicine with interests in bioinformatics
 
+[+] Computational Medicine
+
+[#](https://github.com/Charlie-Edwards#Stack) My Stack ([Python](https://github.com/Charlie-Edwards/python), [C++](https://github.com/Charlie-Edwards/cpp))
+
+[#](https://github.com/Charlie-Edwards#Timeline) A timeline of my progress
+
 ```python
 class CharlieEdwards:
 
@@ -23,12 +29,6 @@ Charlie = Accounts(
     github="https://github.com/Charlie-Edwards"
 )
 ```
-
-|My Stack [#](https://github.com/Charlie-Edwards#Stack)|Accounts|GitHub [#](https://github.com/Charlie-Edwards)|
-|:-------------:|:-------------:|:-------------:|
-|[Python](https://github.com/Charlie-Edwards/python)|[THM](https://tryhackme.com/p/charlieEdwards)|[Repos](https://github.com/Charlie-Edwards?tab=repositories&q=&language=&sort=name)|
-|[C++](https://github.com/Charlie-Edwards/cpp)|[roadmap.sh](https://roadmap.sh/u/charlieedwards)|[Stars](https://github.com/Charlie-Edwards?tab=stars)|
-|[R](https://github.com/Charlie-Edwards/r)|[LeetCode](https://leetcode.com/u/Charlie_Edwards/)|[Following](https://github.com/Charlie-Edwards?tab=following)|
 
 ---
 
