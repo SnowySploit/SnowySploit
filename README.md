@@ -1,7 +1,7 @@
 \>_ Hi I'm **Charlie**, a self-taught 14 year old programmer getting into computational medicine with interests in bioinformatics
 
 ```python
-class CharlieEdwards:
+class Me:
 
     def __init__(self, name, age, occupation):
         self.name = name
@@ -9,7 +9,7 @@ class CharlieEdwards:
         self.occupation = occupation
 
 
-class Accounts(CharlieEdwards):
+class Accounts(Me):
 
     def __init__(self, name, age, occupation, github):
         super().__init__(name, age, occupation)
@@ -26,8 +26,8 @@ charlie = Accounts(
 
 |My Stack [#](https://github.com/Charlie-Edwards#Stack)|Accounts|GitHub [#](https://github.com/Charlie-Edwards)|
 |:-------------:|:-------------:|:-------------:|
-|[Python](https://github.com/Charlie-Edwards/python)|[THM](https://tryhackme.com/p/charlieEdwards)|[Repos](https://github.com/Charlie-Edwards?tab=repositories&q=&language=&sort=name)|
-|[C++](https://github.com/Charlie-Edwards/cpp)|[roadmap.sh](https://roadmap.sh/u/charlieedwards)|[Stars](https://github.com/Charlie-Edwards?tab=stars)|
+|[Python](https://github.com/Charlie-Edwards/python)|[THM](https://tryhackme.com/p/Me)|[Repos](https://github.com/Charlie-Edwards?tab=repositories&q=&language=&sort=name)|
+|[C++](https://github.com/Charlie-Edwards/cpp)|[roadmap.sh](https://roadmap.sh/u/Me)|[Stars](https://github.com/Charlie-Edwards?tab=stars)|
 |[R](https://github.com/Charlie-Edwards/r)|[LeetCode](https://leetcode.com/u/Charlie_Edwards/)|[Following](https://github.com/Charlie-Edwards?tab=following)|
 
 ---
@@ -46,7 +46,7 @@ __2025-2026 (13)__:
 
 __2024-2025 (12)__:
 
-- Interested in __cybersecurity__, I started learning computer science fundamentals and basic concepts like offensive and defensive security against attacks through [TryHackMe](https://tryhackme.com/p/charlieEdwards) easy rooms and CTF walkthroughs.
+- Interested in __cybersecurity__, I started learning computer science fundamentals and basic concepts like offensive and defensive security against attacks through [TryHackMe](https://tryhackme.com/p/Me) easy rooms and CTF walkthroughs.
 
 ---
 
