@@ -20,7 +20,7 @@ __2025-2026 (13)__:
 
 - Then I started taking education more seriously, learning [Python](https://github.com/Charlie-Edwards/python) for networking, machine learning and data science. Testing out a bunch of different tools within fields like reverse engineering, cryptography and web security.
 - I also started daily driving arch linux on my laptop and bought a web domain for pentesting.
-- Self-teaching through tutorials and guides from people like NeuralNine [@](https://www.youtube.com/@NeuralNine) and NetworkChuck [@](https://www.youtube.com/@NetworkChuck) helped me stay relevant in the field despite my school not teaching this and kept me at my own pace and understanding.
+- Self-teaching through tutorials and guides from people like [@](https://www.youtube.com/@NeuralNine)NeuralNine and [@](https://www.youtube.com/@NetworkChuck)NetworkChuck helped me stay relevant in the field despite my school not teaching this and kept me at my own pace and understanding.
 
 __2024-2025 (12)__:
 
