@@ -2,11 +2,7 @@
 
 [+] Computational Medicine
 
-TryHackMe [#](https://tryhackme.com/p/charlieEdwards)
-
-roadmap.sh [#](https://roadmap.sh/u/charlieedwards)
-
-LeetCode [#](https://leetcode.com/u/Charlie_Edwards)
+TryHackMe [#](https://tryhackme.com/p/charlieEdwards) roadmap.sh [#](https://roadmap.sh/u/charlieedwards) LeetCode [#](https://leetcode.com/u/Charlie_Edwards)
 
 \- My Stack ([~/#Stack](https://github.com/Charlie-Edwards#Stack))
 
