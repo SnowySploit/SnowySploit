@@ -1,10 +1,81 @@
-## [Creatine during puberty](https://github.com/SnowySploit/SnowySploit/tree/main/Creatine%20during%20puberty)
-Creatine is one of the most well researched suppliments in existence but has large gaps in adolescent studies.
+\>_ Hi I'm **Charlie**, a self-taught 14 year old programmer getting into computational medicine with interests in bioinformatics
 
-I've been taking creatine for 2 months prior to this test and have problems taking doeses more than 10g due to GI levels and I always dry scoop my creatine with milk when I take it.
+[+] Computational Medicine
 
-I'm recording to see if smaller doses in younger people have any noticable changes and if it's really worth taking for a 14 year old (me).
+|My Stack [#](https://github.com/Charlie-Edwards#Stack)|Accounts|GitHub [#](https://github.com/Charlie-Edwards)|
+|:-------------:|:-------------:|:-------------:|
+|[Python](https://github.com/Charlie-Edwards/python)|[THM](https://tryhackme.com/p/charlieEdwards)|[Repos](https://github.com/Charlie-Edwards?tab=repositories&q=&language=&sort=name)|
+|[C++](https://github.com/Charlie-Edwards/cpp)|[roadmap.sh](https://roadmap.sh/u/charlieedwards)|[Stars](https://github.com/Charlie-Edwards?tab=stars)|
+|[R](https://github.com/Charlie-Edwards/r)|[LeetCode](https://leetcode.com/u/Charlie_Edwards/)|[Following](https://github.com/Charlie-Edwards?tab=following)|
 
-The creatine I'm taking is flavoured and has a sweetener + vitamins and if I can find any in the shop, I might get a tub that's just unflavoured, pure creatine next time for a more accurate result.
+---
 
-Tested: 31/8/2026 - 6/9/2026 ([View log](https://github.com/SnowySploit/SnowySploit/blob/main/Creatine%20during%20puberty/log.json))
+### Timeline:
+
+__2026-2027 (14)__:
+
+- Reconsidering if I really wanted to work in cybersecurity (since I didn't feel like I was progressing at all and [the impact of AI](https://www.isc2.org/Insights/2026/07/rethinking-ai-impact-on-cybersecurity-roles)), I'm now aiming to work in computational medicine with __Bioinformatics__ which doesn't waste much of my previous effort in learning cybersecurity and can help me do what I like even in a new field.
+
+__2025-2026 (13)__:
+
+- Then I started taking education more seriously, learning [Python](https://github.com/Charlie-Edwards/python) for networking, machine learning and data science. Testing out a bunch of different tools within fields like reverse engineering, cryptography and web security.
+- I also started daily driving arch linux on my laptop and bought a web domain for pentesting.
+- Self-teaching through tutorials and guides from people like NeuralNine [@](https://www.youtube.com/@NeuralNine) and NetworkChuck [@](https://www.youtube.com/@NetworkChuck) helped me stay relevant in the field despite my school not teaching this and kept me at my own pace and understanding.
+
+__2024-2025 (12)__:
+
+- Interested in __cybersecurity__, I started learning computer science fundamentals and basic concepts like offensive and defensive security against attacks through [TryHackMe](https://tryhackme.com/p/charlieEdwards) easy rooms and CTF walkthroughs.
+
+---
+
+### Stack:
+
+__Python__ ([~/python](https://github.com/Charlie-Edwards/python)):
+- Artificial Intelligence / Machine Learning ([~/python/ai-ml](https://github.com/Charlie-Edwards/python/tree/main/ai-ml))
+- - Computer Vision
+- - Machine Learning models
+- Data Science ([~/python/data](https://github.com/Charlie-Edwards/python/tree/main/data))
+- - Cryptography / Steganography
+- - Encryption
+- - SQLite / PostgreSQL Databases
+- Networking ([~/python/networking](https://github.com/Charlie-Edwards/python/tree/main/networking))
+- - Protocols, ports, servers
+- - Tor, IP's
+- - Web browser / Web porting
+
+__C++__ ([~/cpp](https://github.com/Charlie-Edwards/cpp)):
+- ESP32-S3 ([~/cpp/esp32-s3](https://github.com/Charlie-Edwards/cpp/tree/main/esp32-s3))
+- OpenGL ([~/cpp/opengl](https://github.com/Charlie-Edwards/cpp/tree/main/opengl))
+- WinAPI ([~/cpp/winapi](https://github.com/Charlie-Edwards/cpp/tree/main/winapi))
+
+__Frameworks & Libraries__:
+- Adafruit NeoPixel
+- Beautiful Soup
+- discord.py
+- glad
+- GLFW
+- Matplotlib
+- NumPy
+- OpenCV
+- OpenGL
+- PyQt (5 & 6)
+- Requests
+- scikit-learn
+- TensorFlow
+
+(I'm also familiar with SQL (postgreSQL & SQLite), HTML, CSS and Bash for Linux)
+
+---
+
+- [x] Understanding of machine learning systems
+- [ ] Know R
+- [ ] Know C++
+- [x] Know Python
+- [x] Know SQL
+- [x] Understand Linux systems
+
+---
+
+This GitHub profile is built to document my progress.
+
+Thank you for reading!
