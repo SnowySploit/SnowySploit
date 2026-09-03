@@ -39,11 +39,9 @@ __2024-2025 (12)__:
 
 ### Stack:
 
+__Python__ ([~/python](https://github.com/Charlie-Edwards/python)):
 
-<details open>
-<summary>
-
-__Python__ ([~/python](https://github.com/Charlie-Edwards/python)):</summary>
+<details open><summary></summary>
 
 - Artificial Intelligence / Machine Learning ([~/python/ai-ml](https://github.com/Charlie-Edwards/python/tree/main/ai-ml))
 - - Computer Vision
@@ -58,10 +56,10 @@ __Python__ ([~/python](https://github.com/Charlie-Edwards/python)):</summary>
 - - Web browser / Web porting
 </details>
 
-<details open>
-<summary>
+__C++__ ([~/cpp](https://github.com/Charlie-Edwards/cpp)):
 
-__C++__ ([~/cpp](https://github.com/Charlie-Edwards/cpp)):</summary>
+<details open><summary></summary>
+
 - ESP32-S3 ([~/cpp/esp32-s3](https://github.com/Charlie-Edwards/cpp/tree/main/esp32-s3))
 - OpenGL ([~/cpp/opengl](https://github.com/Charlie-Edwards/cpp/tree/main/opengl))
 - WinAPI ([~/cpp/winapi](https://github.com/Charlie-Edwards/cpp/tree/main/winapi))
