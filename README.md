@@ -39,7 +39,12 @@ __2024-2025 (12)__:
 
 ### Stack:
 
-__Python__ ([~/python](https://github.com/Charlie-Edwards/python)):
+
+<details open>
+<summary>
+
+__Python__ ([~/python](https://github.com/Charlie-Edwards/python)):</summary>
+
 - Artificial Intelligence / Machine Learning ([~/python/ai-ml](https://github.com/Charlie-Edwards/python/tree/main/ai-ml))
 - - Computer Vision
 - - Machine Learning models
@@ -51,11 +56,16 @@ __Python__ ([~/python](https://github.com/Charlie-Edwards/python)):
 - - Protocols, ports, servers
 - - Tor, IP's
 - - Web browser / Web porting
+</details>
 
-__C++__ ([~/cpp](https://github.com/Charlie-Edwards/cpp)):
+<details open>
+<summary>
+
+__C++__ ([~/cpp](https://github.com/Charlie-Edwards/cpp)):</summary>
 - ESP32-S3 ([~/cpp/esp32-s3](https://github.com/Charlie-Edwards/cpp/tree/main/esp32-s3))
 - OpenGL ([~/cpp/opengl](https://github.com/Charlie-Edwards/cpp/tree/main/opengl))
 - WinAPI ([~/cpp/winapi](https://github.com/Charlie-Edwards/cpp/tree/main/winapi))
+</details>
 
 __Frameworks & Libraries__:
 - Adafruit NeoPixel
