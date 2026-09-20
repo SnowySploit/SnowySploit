@@ -1,3 +1,5 @@
+https://github-stats-extended.vercel.app/api/top-langs?username=Charlie-Edwards&layout=compact&langs_count=10&theme=gruvbox
+
 \>_ Hi I'm **Charlie**, a self-taught 14 year old programmer getting into computational medicine with interests in bioinformatics
 
 [+] Computational Medicine
