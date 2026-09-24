@@ -94,4 +94,4 @@ This GitHub profile is built to document my progress.
 
 Thank you for reading!
 
-<kbd>Ctrl</kbd>
+<kbd>hello</kbd>
