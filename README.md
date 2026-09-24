@@ -95,16 +95,4 @@ This GitHub profile is built to document my progress.
 Thank you for reading!
 
 > [!NOTE]
-> Useful information.
-
-> [!TIP]
-> Helpful advice.
-
-> [!IMPORTANT]
-> Key information.
-
-> [!WARNING]
-> Urgent, needs attention.
-
-> [!CAUTION]
-> Risks or negative outcomes.
+> I'm using Github less for a little bit because I have to revise and go to the gym so I'm always too exhausted to want to code but I do code when I have the time and I'm saving up crypto too [Wallet](https://metasleuth.io/result/btc/bc1qjqtszxz72e23nwq8yf7x9csvudn3ss7wmt89dk)
