@@ -23,7 +23,7 @@ Charlie (
 
 ### Timeline:
 
-A timeline of my progress and some info about me, ([read from bottom to top](https://github.com/SnowySploit#%E2%80%8B)):
+A timeline of my progress and some info about me, (<ins>read from bottom to top</ins>):
 
 __2026-2027 (14)__:
 
@@ -40,7 +40,7 @@ __2024-2025 (12)__:
 
 - Interested in __cybersecurity__, I started learning computer science fundamentals and basic concepts like offensive and defensive security against attacks through [TryHackMe](https://tryhackme.com/p/charlieEdwards) easy rooms and CTF walkthroughs.
 
-# ​
+---
 
 ### Stack:
 
@@ -94,4 +94,17 @@ This GitHub profile is built to document my progress.
 
 Thank you for reading!
 
-<kbd>hello</kbd>
+> [!NOTE]
+> Useful information.
+
+> [!TIP]
+> Helpful advice.
+
+> [!IMPORTANT]
+> Key information.
+
+> [!WARNING]
+> Urgent, needs attention.
+
+> [!CAUTION]
+> Risks or negative outcomes.
