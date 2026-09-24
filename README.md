@@ -1,5 +1,3 @@
-https://github-stats-extended.vercel.app/api/top-langs?username=Charlie-Edwards&layout=compact&langs_count=10&theme=gruvbox
-
 \>_ Hi I'm **Charlie**, a self-taught 14 year old programmer getting into computational medicine with interests in bioinformatics
 
 [+] Computational Medicine
@@ -19,12 +17,17 @@ Charlie (
 )
 ```
 
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Charlie-Edwards&layout=compact&langs_count=10&hide=html,css,ren'py,makefile&theme=react)](https://github.com/Charlie-Edwards#stack)
+
 ---
 
 ### Timeline:
 
+A timeline of my progress and some info about me, ([read from bottom to top](https://github.com/SnowySploit#%E2%80%8B)):
+
 __2026-2027 (14)__:
 
+- Finally being taught computer science in school for my GCSE's
 - Reconsidering if I really wanted to work in cybersecurity (AI ([?](https://www.isc2.org/Insights/2026/07/rethinking-ai-impact-on-cybersecurity-roles)), relevance and interest), I'm now aiming to work in computational medicine with __Bioinformatics__ which doesn't waste much of my previous effort in learning cybersecurity and can help me do what I like even in a new field.
 
 __2025-2026 (13)__:
@@ -37,7 +40,7 @@ __2024-2025 (12)__:
 
 - Interested in __cybersecurity__, I started learning computer science fundamentals and basic concepts like offensive and defensive security against attacks through [TryHackMe](https://tryhackme.com/p/charlieEdwards) easy rooms and CTF walkthroughs.
 
----
+# ​
 
 ### Stack:
 
@@ -90,3 +93,5 @@ __Frameworks & Libraries__:
 This GitHub profile is built to document my progress.
 
 Thank you for reading!
+
+<kbd>Ctrl</kbd>
