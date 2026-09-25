@@ -1,6 +1,12 @@
 > [!NOTE]
 > I'm using Github less for a little bit because I have to revise and go to the gym so I'm always too exhausted to want to code but I will when I have the time. I'm saving up crypto too: [bc1qjqtszxz72e23nwq8yf7x9csvudn3ss7wmt89dk](https://metasleuth.io/result/btc/bc1qjqtszxz72e23nwq8yf7x9csvudn3ss7wmt89dk) (I also have LTC but multiple addresses make it hard to show)
 
+
+Here is a claim.[^1] And another.[^note]
+
+[^1]: The footnote text.
+[^note]: Footnotes render at the bottom of the page.
+
 ---
 
 \>_ Hi I'm **Charlie**, a self-taught 14 year old programmer getting into computational medicine with interests in bioinformatics
@@ -32,6 +38,7 @@ A timeline of my progress and some info about me, (<ins>read from bottom to top<
 
 __2026-2027 (14)__:
 
+- Finally being taught computer science in school for my GCSE's
 - Reconsidering if I really wanted to work in cybersecurity (AI ([?](https://www.isc2.org/Insights/2026/07/rethinking-ai-impact-on-cybersecurity-roles)), relevance and interest), I'm now aiming to work in computational medicine with __Bioinformatics__ which doesn't waste much of my previous effort in learning cybersecurity and can help me do what I like even in a new field.
 
 __2025-2026 (13)__:
@@ -50,16 +57,16 @@ __2024-2025 (12)__:
 
 __Python__ ([~/python](https://github.com/Charlie-Edwards/python)):
 - Artificial Intelligence / Machine Learning ([~/python/ai-ml](https://github.com/Charlie-Edwards/python/tree/main/ai-ml))
-- - Computer Vision
-- - Machine Learning models
+  - Computer Vision
+  - Machine Learning models
 - Data Science ([~/python/data](https://github.com/Charlie-Edwards/python/tree/main/data))
-- - Cryptography / Steganography
-- - Encryption
-- - SQLite / PostgreSQL Databases
+  - Cryptography / Steganography
+  - Encryption
+  - SQLite / PostgreSQL Databases
 - Networking ([~/python/networking](https://github.com/Charlie-Edwards/python/tree/main/networking))
-- - Protocols, ports, servers
-- - Tor, IP's
-- - Web browser / Web porting
+  - Protocols, ports, servers
+  - Tor, IP's
+  - Web browser / Web porting
 
 __C++__ ([~/cpp](https://github.com/Charlie-Edwards/cpp)):
 - ESP32-S3 ([~/cpp/esp32-s3](https://github.com/Charlie-Edwards/cpp/tree/main/esp32-s3))
