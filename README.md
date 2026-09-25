@@ -32,7 +32,7 @@ A timeline of my progress and some info about me, (<ins>read from bottom to top<
 
 __2026-2027 (14)__:
 
-- Reconsidering if I really wanted to work in cybersecurity (AI ([$`^?`$](https://www.isc2.org/Insights/2026/07/rethinking-ai-impact-on-cybersecurity-roles)), relevance and interest), I'm now aiming to work in computational medicine with __Bioinformatics__ which doesn't waste much of my previous effort in learning cybersecurity and can help me do what I like even in a new field.
+- Reconsidering if I really wanted to work in cybersecurity (AI ([?](https://www.isc2.org/Insights/2026/07/rethinking-ai-impact-on-cybersecurity-roles)), relevance and interest), I'm now aiming to work in computational medicine with __Bioinformatics__ which doesn't waste much of my previous effort in learning cybersecurity and can help me do what I like even in a new field.
 
 __2025-2026 (13)__:
 
