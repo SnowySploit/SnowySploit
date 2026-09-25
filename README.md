@@ -1,11 +1,7 @@
 > [!NOTE]
 > I'm using Github less for a little bit because I have to revise and go to the gym so I'm always too exhausted to want to code but I will when I have the time. I'm saving up crypto too: [bc1qjqtszxz72e23nwq8yf7x9csvudn3ss7wmt89dk](https://metasleuth.io/result/btc/bc1qjqtszxz72e23nwq8yf7x9csvudn3ss7wmt89dk) (I also have LTC but multiple addresses make it hard to show)
 
-
-Here is a claim.[^1] And another.[^note]
-
 [^1]: The footnote text.
-[^note]: Footnotes render at the bottom of the page.
 
 ---
 
@@ -92,7 +88,7 @@ __Frameworks & Libraries__:
 
 ---
 
-- [x] Understanding of machine learning systems
+- [x] Understanding of machine learning models
 - [ ] Know R
 - [ ] Know C++
 - [x] Know Python
