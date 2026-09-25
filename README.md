@@ -1,8 +1,6 @@
 > [!NOTE]
 > I'm using Github less for a little bit because I have to revise and go to the gym so I'm always too exhausted to want to code but I will when I have the time. I'm saving up crypto too: [bc1qjqtszxz72e23nwq8yf7x9csvudn3ss7wmt89dk](https://metasleuth.io/result/btc/bc1qjqtszxz72e23nwq8yf7x9csvudn3ss7wmt89dk) (I also have LTC but multiple addresses make it hard to show)
 
-[^1]: The footnote text.
-
 ---
 
 \>_ Hi I'm **Charlie**, a self-taught 14 year old programmer getting into computational medicine with interests in bioinformatics
@@ -34,7 +32,6 @@ A timeline of my progress and some info about me, (<ins>read from bottom to top<
 
 __2026-2027 (14)__:
 
-- Finally being taught computer science in school for my GCSE's
 - Reconsidering if I really wanted to work in cybersecurity (AI ([?](https://www.isc2.org/Insights/2026/07/rethinking-ai-impact-on-cybersecurity-roles)), relevance and interest), I'm now aiming to work in computational medicine with __Bioinformatics__ which doesn't waste much of my previous effort in learning cybersecurity and can help me do what I like even in a new field.
 
 __2025-2026 (13)__:
